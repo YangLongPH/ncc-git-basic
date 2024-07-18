@@ -14,7 +14,7 @@ NCC Git Basic là một series về git cơ bản, trong series này mình sẽ 
 
 [4. Working with Remotes: `git remote` - `git pull` - `git push` - `git fetch`](./book/04-working-with-remotes.md)
 
-[4.1. HTTPS and SSH](./book/04-working-with-remote.md)
+[4.1. HTTPS and SSH](./book/04-https-and-ssh.md)
 
 [5. Git Branching: `git branch` - `git checkout`](./book/05-git-branching.md)
 
@@ -70,3 +70,4 @@ Check out from master or dev branch: `git checkout -b your-new-branch`
 4. https://www.atlassian.com/git/tutorials/git-ssh
 5. https://viblo.asia/p/git-dung-https-hay-ssh-eW65Gm9jZDO
 6. https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
+7. https://ant.ncc.asia/thu-muc-git-co-gi/
